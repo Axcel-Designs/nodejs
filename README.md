@@ -1,4 +1,4 @@
-# KodeCamp Node JS Tasks
+# Node JS Tasks
 
 - [Project 01](./project_01/)
 - [Project 02](./project_02/)
@@ -10,5 +10,4 @@
 - [Project 08](./project_08/)
 - [Project 09](./project_09/)
 - [Project 10](./project_10/)
-- [Project 11](./project_11/)
-- [Project 12](./project_12/)
+
