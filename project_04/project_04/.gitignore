@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # compiled output
 /dist
 /node_modules
@@ -55,14 +54,3 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-=======
-.env 
-
-node_modules/
-
-/project_00/
-project_00/
-
-.vscode/
-/.vscode/
->>>>>>> 50b6c7370e03b9a0eb21a4019faf97b1221cb75e
