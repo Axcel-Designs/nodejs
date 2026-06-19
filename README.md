@@ -1,52 +1,13 @@
-# Todo list task with NestJS
+# Node JS Projects
 
-## The API should have the following endpoints
-
-1. GET "/todos" endpoint that allowes a user to get a list of todos.
-
-2. GET "/todos/{id}" that allows a user to get a single e todo.
-
-3. POST "/todos" that allows a user to create a new todo.
-
-4. PUT "/todos/{id}" that allows a user to update a todo.
-
-5. DELETE "/todos/{id}" that allows a user to delete a todo.
-
-Each todo should have a title, description and status. The status can be either "pending" or "in-progress" or "completed".
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Project setup
-
-```bash
-$ pnpm install 
-
-```
-
-## Compile and run the project
-
-```bash
-# development
-$ pnpm run start
-
-# watch mode
-$ pnpm run start:dev
-
-# production mode
-$ pnpm run start:prod
-```
-
-## Run tests
-
-```bash
-# unit tests
-$ pnpm run test
-
-# e2e tests
-$ pnpm run test:e2e
-
-# test coverage
-$ pnpm run test:cov
-```
+<!-- - [Project 00](./project_00/) - empty project directory -->
+- [Project 01](./project_01/) - String reversal and conditional remarks challenge
+- [Project 02](./project_02/) - Array and string manipulation challenges
+- [Project 03](./project_03/) - GitHub fetch and KCStore class exercise
+- [Project 04](./project_04/) - Todo list task with NestJS
+<!-- - [Project 05](./project_05/) - empty project directory
+- [Project 06](./project_06/) - empty project directory
+- [Project 07](./project_07/) - empty project directory
+- [Project 08](./project_08/) - empty project directory
+- [Project 09](./project_09/) - empty project directory
+- [Project 10](./project_10/) - empty project directory -->
